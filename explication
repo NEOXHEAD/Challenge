@@ -1,0 +1,12 @@
+
+
+Challenge : Création d'une Application de Météo
+
+Objectif : Écrire un programme qui interagit avec une API météo pour fournir des informations météorologiques en temps réel.
+
+Spécifications :
+
+Utilisez une API météo publique (par exemple, OpenWeatherMap) pour obtenir les informations météorologiques en temps réel.
+Permettez à l'utilisateur de saisir le nom d'une ville.
+Affichez les informations météorologiques actuelles pour cette ville (température, conditions météorologiques, etc.).
+Gérez les erreurs et assurez-vous que le programme ne plante pas si la ville n'est pas trouvée ou si l'API renvoie une erreur.
